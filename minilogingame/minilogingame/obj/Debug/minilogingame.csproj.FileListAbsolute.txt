@@ -1,0 +1,10 @@
+C:\Users\Админ\source\repos\minilogingame\minilogingame\bin\Debug\minilogingame.exe.config
+C:\Users\Админ\source\repos\minilogingame\minilogingame\bin\Debug\minilogingame.exe
+C:\Users\Админ\source\repos\minilogingame\minilogingame\bin\Debug\minilogingame.pdb
+C:\Users\Админ\source\repos\minilogingame\minilogingame\obj\Debug\minilogingame.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\minilogingame\minilogingame\obj\Debug\minilogingame.Form1.resources
+C:\Users\Админ\source\repos\minilogingame\minilogingame\obj\Debug\minilogingame.Properties.Resources.resources
+C:\Users\Админ\source\repos\minilogingame\minilogingame\obj\Debug\minilogingame.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\minilogingame\minilogingame\obj\Debug\minilogingame.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\minilogingame\minilogingame\obj\Debug\minilogingame.exe
+C:\Users\Админ\source\repos\minilogingame\minilogingame\obj\Debug\minilogingame.pdb
